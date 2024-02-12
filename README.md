@@ -1,1 +1,3 @@
-# sync_async
+# Synchronous & Asynchronous 
+
+>Python, asynchronous programming, the event loop... 
